@@ -1,0 +1,6 @@
+[submodule "C#/2025-12-02-CS"]
+	path = "C#/2025-12-02-CS"
+	url = https://github.com/bradly0cjw/2025-12-02-CS.git
+[submodule "Week1_BossTutorial/godot FSM boss"]
+	path = Week1_BossTutorial/godot FSM boss
+	url = https://github.com/andyhi93/godot-FSM-boss-template.git
