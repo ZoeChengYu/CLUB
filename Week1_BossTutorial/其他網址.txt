@@ -1,0 +1,2 @@
+實作引導手冊：notion.so/3671803c84a480b8b91ddbed9bce9ffb?source=copy_link
+專案連結：https://github.com/andyhi93/godot-FSM-boss-template
